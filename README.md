@@ -30,7 +30,7 @@ This project is a Python-based tool that analyzes a given website URL for potent
 Install dependencies using:
 
 ```bash
-'pip install -r requirements.txt'
+pip install -r requirements.txt
 ```
 
 ## 🧪 Usage
